@@ -171,7 +171,7 @@ This will display the external IP address of the LoadBalancer in the EXTERNAL-IP
 
 You should now be able to access your application by visiting the external IP address of the LoadBalancer in your web browser.
 
-# if you link don'nt forget to subscribe my channel
+# don'nt forget to subscribe my channel
 
 [Fitocdding](https://www.youtube.com/c/fitcodding)
 
