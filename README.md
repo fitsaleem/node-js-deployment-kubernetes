@@ -173,7 +173,7 @@ You should now be able to access your application by visiting the external IP ad
 
 # if you link don'nt forget to subscribe my channel
 
-"[Fitocdding]","(https://www.youtube.com/c/fitcodding)"
+[Fitocdding](https://www.youtube.com/c/fitcodding)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/fitsaleem"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fitsaleem" /></a><br>
